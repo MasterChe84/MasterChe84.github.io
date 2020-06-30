@@ -14,3 +14,5 @@ Star Wars (englisch für Sternkriege) ist ein Film-Franchise, dessen Geschichte 
 Er sagte
 > Tu dies,
 > tu das.
+
+<img src="https://de.wikipedia.org/wiki/Datei:Star_Wars_Logo.svg />
